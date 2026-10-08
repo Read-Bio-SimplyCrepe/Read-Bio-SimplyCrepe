@@ -19,6 +19,7 @@
 [![Artist](https://img.shields.io/badge/Artist-ff69b4?style=for-the-badge&logo=artstation&logoColor=white)](#)
 [![FMA](https://img.shields.io/badge/FMA-Fullmetal%20Alchemist-8b0000?style=for-the-badge)](#)
 [![Genderfluid](https://img.shields.io/badge/Genderfluid-%F0%9F%8C%88-9b59b6?style=for-the-badge)](#)
+.[![DID System](https://img.shields.io/badge/DID%20System-🌈%20Plural-ff69b4?style=for-the-badge)](#)
 
 <br>
 
