@@ -69,14 +69,3 @@ Current status:
     SANITY    ████░░░░░░░░░░░░░░░░  20%
 
 ██████████████████████████████████████████████
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SimplyCrepe&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="49%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000" width="49%">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyCrepe&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="45%">
-
-</div>
