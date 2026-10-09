@@ -280,7 +280,6 @@ Sam & Max]
 
   <br/><br/>
 
-  <sub>Replace YOUR-GITHUB-USERNAME with your GitHub username.</sub>
 
 </div>
 
