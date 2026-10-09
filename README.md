@@ -1,7 +1,7 @@
 <!-- ════════════════ HEADER ════════════════ -->
 
 <div align="center">
-  <img src="./assets/BANNER%20GIF.gif" width="100%" alt="Crepe/Star's GitHub banner"/>
+  <img src="assets/github-banner.gif" width="100%" alt="Crepe/Star's GitHub banner"/>
 </div>
 
   <h3>⚙️ ──「 EQUIVALENT EXCHANGE 」── ⚙️</h3>
