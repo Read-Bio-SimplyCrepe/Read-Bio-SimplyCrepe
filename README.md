@@ -21,7 +21,7 @@
 <!-- ════════════════ INTRODUCTION ════════════════ -->
 
 <div align="center">
-  <img src="./assets/INTRO%20GIP.gif" width="100%" alt="Introduction banner featuring Edward and Alphonse"/>
+  <img src="assets/introduction.gif" width="100%" alt="Introduction banner featuring Edward and Alphonse"/>
 </div>
 
   <h2>⛧ INTRODUCTION ⛧</h2>
