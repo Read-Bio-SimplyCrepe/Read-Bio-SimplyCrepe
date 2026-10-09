@@ -1,6 +1,8 @@
 <!-- ════════════════ HEADER ════════════════ -->
 
-<a href="https://ibb.co/ymjHTY3b"><img src="https://i.ibb.co/cKn45Cm7/BANNER-GIF.gif" alt="BANNER-GIF" border="0"></a>
+<div align="center">
+  <img src="./assets/BANNER%20GIF.gif" width="100%" alt="Crepe/Star's GitHub banner"/>
+</div>
 
   <h3>⚙️ ──「 EQUIVALENT EXCHANGE 」── ⚙️</h3>
 
@@ -18,7 +20,9 @@
 
 <!-- ════════════════ INTRODUCTION ════════════════ -->
 
-<a href="https://ibb.co/n88vT2FX"><img src="https://i.ibb.co/4ggGcyHb/INTRO-GIP.gif" alt="INTRO-GIP" border="0"></a>
+<div align="center">
+  <img src="./assets/INTRO%20GIP.gif" width="100%" alt="Introduction banner featuring Edward and Alphonse"/>
+</div>
 
   <h2>⛧ INTRODUCTION ⛧</h2>
 
