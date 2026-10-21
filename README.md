@@ -272,7 +272,7 @@ Sam & Max]
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SimplyCrepe&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=B5B9D9&amp;text_color=C9CAD4&amp;icon_color=A9323C" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Read-Bio-SimplyCrepe&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=B5B9D9&amp;text_color=C9CAD4&amp;icon_color=A9323C" alt="GitHub statistics"/>
 
   <br/><br/>
 
