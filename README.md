@@ -36,6 +36,7 @@ A little strawberry in a big digital garden.
 </div>
 
 ## 💗 Things I like
+Dandy's world, CRK, FMA, other things
 
 <div align="center">
 
